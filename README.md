@@ -1,9 +1,12 @@
-# northwind-SQLite3
+# NORTHWIND’S SALES
 
-This is a version of the Microsoft Access 2000 Northwind sample database, re-engineered for SQLite3.
+### INVESTIGATION & SOLUTIONS
 
-The Northwind sample database was provided with Microsoft Access as a tutorial schema for managing small business customers, orders, inventory, purchasing, suppliers, shipping, and employees. Northwind is an excellent tutorial schema for a small-business ERP, with customers, orders, inventory, purchasing, suppliers, shipping, employees, and single-entry accounting.
 
-All the TABLES and VIEWS from the MSSQL-2000 version have been converted to Sqlite3 and included here. Also included are two versions prepopulated with data - a small verison and a large version. Should you decide to, you can use the included python script to pump the database full of more data.
+This repo has following files of the Northwind project:
+- Northwind.ipynb : This is the main Jupyter notebook that performs all EDA, and hypothesis tests and all technical conclusions from the data
+- Northwind_small.sqlite: This is the database store Northwind's data
+- Northwind.pdf: This is the 5-minute executive summary of the data study, hypothesis test results and some business suggestions
 
-![alt tag](https://raw.githubusercontent.com/jpwhite3/northwind-SQLite3/master/Northwind_ERD.png)
+
+
